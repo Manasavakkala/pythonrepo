@@ -1,0 +1,8 @@
+google is up 
+127.0.0.1 is up 
+x.y.z.a is up 
+127.0.0.1 is up 
+google.co.in is up 
+"10.0.0.1"link is down
+127.0.0.1 is up 
+google.co.in is up 
