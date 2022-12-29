@@ -4,5 +4,5 @@ try:
     c=a/b
 except ZeroDivisionError:
     print("zero division is not valid")
-
-
+a=0
+print(a)
